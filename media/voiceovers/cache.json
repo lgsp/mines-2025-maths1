@@ -19955,5 +19955,4420 @@
     ],
     "transcribed_text": " Finalement, X, Moin, Y, le tout au carr\u00e9, ce qui est toujours vrai.",
     "final_audio": "finalement-x-moins-y-le-tout-au-carre-positif-ce-4f515d25.mp3"
+  },
+  {
+    "input_text": "Consid\u00e9rons un rectangle de c\u00f4t\u00e9s x et y",
+    "input_data": {
+      "input_text": "Consid\u00e9rons un rectangle de c\u00f4t\u00e9s x et y",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "considerons-un-rectangle-de-cotes-x-et-y-68c33edd.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 4200000,
+        "text_offset": 0,
+        "word_length": 12,
+        "text": " consid\u00e9rons",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 10200000,
+        "text_offset": 12,
+        "word_length": 3,
+        "text": " un",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 12800000,
+        "text_offset": 15,
+        "word_length": 10,
+        "text": " rectangle",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 18200000,
+        "text_offset": 25,
+        "word_length": 3,
+        "text": " de",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 21200000,
+        "text_offset": 28,
+        "word_length": 5,
+        "text": " c\u00f4t\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 25200000,
+        "text_offset": 33,
+        "word_length": 2,
+        "text": " X",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 31400000,
+        "text_offset": 35,
+        "word_length": 2,
+        "text": "-I",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 34600000,
+        "text_offset": 37,
+        "word_length": 6,
+        "text": "-GRAC.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " consid\u00e9rons un rectangle de c\u00f4t\u00e9 X-I-GRAC.",
+    "final_audio": "considerons-un-rectangle-de-cotes-x-et-y-68c33edd.mp3"
+  },
+  {
+    "input_text": "L'in\u00e9galit\u00e9 de Young nous dit que cette aire est inf\u00e9rieure \u00e0 la moyenne des carr\u00e9s",
+    "input_data": {
+      "input_text": "L'in\u00e9galit\u00e9 de Young nous dit que cette aire est inf\u00e9rieure \u00e0 la moyenne des carr\u00e9s",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "l-inegalite-de-young-nous-dit-que-cette-aire-est-64afbdf8.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 1600000,
+        "text_offset": 0,
+        "word_length": 2,
+        "text": " L",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 3200000,
+        "text_offset": 2,
+        "word_length": 10,
+        "text": "'in\u00e9galit\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 10200000,
+        "text_offset": 12,
+        "word_length": 3,
+        "text": " de",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 12200000,
+        "text_offset": 15,
+        "word_length": 4,
+        "text": " Yom",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 16000000,
+        "text_offset": 19,
+        "word_length": 5,
+        "text": " nous",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 17600000,
+        "text_offset": 24,
+        "word_length": 4,
+        "text": " dit",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 20400000,
+        "text_offset": 28,
+        "word_length": 4,
+        "text": " que",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 22799999,
+        "text_offset": 32,
+        "word_length": 4,
+        "text": " cet",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 25200000,
+        "text_offset": 36,
+        "word_length": 4,
+        "text": " air",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 29400000,
+        "text_offset": 40,
+        "word_length": 4,
+        "text": " est",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 30400000,
+        "text_offset": 44,
+        "word_length": 10,
+        "text": " inf\u00e9rieur",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 36400000,
+        "text_offset": 54,
+        "word_length": 2,
+        "text": " \u00e0",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 38800000,
+        "text_offset": 56,
+        "word_length": 3,
+        "text": " la",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 39600000,
+        "text_offset": 59,
+        "word_length": 8,
+        "text": " moyenne",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 45199999,
+        "text_offset": 67,
+        "word_length": 4,
+        "text": " des",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 47000000,
+        "text_offset": 71,
+        "word_length": 10,
+        "text": " carriers.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " L'in\u00e9galit\u00e9 de Yom nous dit que cet air est inf\u00e9rieur \u00e0 la moyenne des carriers.",
+    "final_audio": "l-inegalite-de-young-nous-dit-que-cette-aire-est-64afbdf8.mp3"
+  },
+  {
+    "input_text": "Ce qui correspond \u00e0 xy inf\u00e9rieur ou \u00e9gal \u00e0 x carr\u00e9 plus y carr\u00e9 sur 2",
+    "input_data": {
+      "input_text": "Ce qui correspond \u00e0 xy inf\u00e9rieur ou \u00e9gal \u00e0 x carr\u00e9 plus y carr\u00e9 sur 2",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "ce-qui-correspond-a-xy-inferieur-ou-egal-a-x-carre-2d1a7ef4.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 0,
+        "text_offset": 0,
+        "word_length": 3,
+        "text": " Ce",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 4000000,
+        "text_offset": 3,
+        "word_length": 4,
+        "text": " qui",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 5000000,
+        "text_offset": 7,
+        "word_length": 11,
+        "text": " correspond",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 10800000,
+        "text_offset": 18,
+        "word_length": 2,
+        "text": " \u00e0",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 13799999,
+        "text_offset": 20,
+        "word_length": 3,
+        "text": " Xy",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 18600000,
+        "text_offset": 23,
+        "word_length": 6,
+        "text": " grec,",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 25400000,
+        "text_offset": 29,
+        "word_length": 3,
+        "text": " un",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 26600000,
+        "text_offset": 32,
+        "word_length": 8,
+        "text": " failure",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 30600000,
+        "text_offset": 40,
+        "word_length": 3,
+        "text": " ou",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 33200000,
+        "text_offset": 43,
+        "word_length": 3,
+        "text": " il",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 34400000,
+        "text_offset": 46,
+        "word_length": 2,
+        "text": " y",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 36000000,
+        "text_offset": 48,
+        "word_length": 2,
+        "text": " a",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 37200000,
+        "text_offset": 50,
+        "word_length": 2,
+        "text": " X",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 40800000,
+        "text_offset": 52,
+        "word_length": 6,
+        "text": " carr\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 46200000,
+        "text_offset": 58,
+        "word_length": 5,
+        "text": " plus",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 49200000,
+        "text_offset": 63,
+        "word_length": 2,
+        "text": " Y",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 53600000,
+        "text_offset": 65,
+        "word_length": 6,
+        "text": " carr\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 60000000,
+        "text_offset": 71,
+        "word_length": 4,
+        "text": " sur",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 62000000,
+        "text_offset": 75,
+        "word_length": 3,
+        "text": " 2.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " Ce qui correspond \u00e0 Xy grec, un failure ou il y a X carr\u00e9 plus Y carr\u00e9 sur 2.",
+    "final_audio": "ce-qui-correspond-a-xy-inferieur-ou-egal-a-x-carre-2d1a7ef4.mp3"
+  },
+  {
+    "input_text": "Ce qu'on peut visualiser g\u00e9om\u00e9triquement",
+    "input_data": {
+      "input_text": "Ce qu'on peut visualiser g\u00e9om\u00e9triquement",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "ce-qu-on-peut-visualiser-geometriquement-f14bd68a.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 19200000,
+        "text_offset": 0,
+        "word_length": 3,
+        "text": " ce",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 21600000,
+        "text_offset": 3,
+        "word_length": 3,
+        "text": " qu",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 23600000,
+        "text_offset": 6,
+        "word_length": 3,
+        "text": "'on",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 24400000,
+        "text_offset": 9,
+        "word_length": 5,
+        "text": " peut",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 26800000,
+        "text_offset": 14,
+        "word_length": 11,
+        "text": " visualiser",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 35600000,
+        "text_offset": 25,
+        "word_length": 16,
+        "text": " g\u00e9om\u00e9triquement",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " ce qu'on peut visualiser g\u00e9om\u00e9triquement",
+    "final_audio": "ce-qu-on-peut-visualiser-geometriquement-f14bd68a.mp3"
+  },
+  {
+    "input_text": "En tra\u00e7ant la diagonale, on obtient deux triangles",
+    "input_data": {
+      "input_text": "En tra\u00e7ant la diagonale, on obtient deux triangles",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "en-tracant-la-diagonale-on-obtient-deux-triangles-63096120.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 7000000,
+        "text_offset": 0,
+        "word_length": 3,
+        "text": " En",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 14000000,
+        "text_offset": 3,
+        "word_length": 8,
+        "text": " tracant",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 20200000,
+        "text_offset": 11,
+        "word_length": 3,
+        "text": " la",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 22000000,
+        "text_offset": 14,
+        "word_length": 10,
+        "text": " diagonal,",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 33400000,
+        "text_offset": 24,
+        "word_length": 3,
+        "text": " on",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 34600000,
+        "text_offset": 27,
+        "word_length": 8,
+        "text": " obtient",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 38800000,
+        "text_offset": 35,
+        "word_length": 5,
+        "text": " deux",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 43200000,
+        "text_offset": 40,
+        "word_length": 11,
+        "text": " triangles.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " En tracant la diagonal, on obtient deux triangles.",
+    "final_audio": "en-tracant-la-diagonale-on-obtient-deux-triangles-63096120.mp3"
+  },
+  {
+    "input_text": "D\u00e9montrant ainsi que l'aire du rectangle est bien inf\u00e9rieure \u00e0 la somme des aires des carr\u00e9s",
+    "input_data": {
+      "input_text": "D\u00e9montrant ainsi que l'aire du rectangle est bien inf\u00e9rieure \u00e0 la somme des aires des carr\u00e9s",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "demontrant-ainsi-que-l-aire-du-rectangle-est-bien-00d75287.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 4000000,
+        "text_offset": 0,
+        "word_length": 11,
+        "text": " d\u00e9montrant",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 9000000,
+        "text_offset": 11,
+        "word_length": 6,
+        "text": " ainsi",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 14400000,
+        "text_offset": 17,
+        "word_length": 4,
+        "text": " que",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 17400000,
+        "text_offset": 21,
+        "word_length": 2,
+        "text": " l",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 19200000,
+        "text_offset": 23,
+        "word_length": 6,
+        "text": "'heure",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 21200000,
+        "text_offset": 29,
+        "word_length": 3,
+        "text": " du",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 23200000,
+        "text_offset": 32,
+        "word_length": 10,
+        "text": " rectangle",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 27799999,
+        "text_offset": 42,
+        "word_length": 3,
+        "text": " et",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 30800000,
+        "text_offset": 45,
+        "word_length": 5,
+        "text": " bien",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 32200000,
+        "text_offset": 50,
+        "word_length": 11,
+        "text": " inf\u00e9rieure",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 42800000,
+        "text_offset": 61,
+        "word_length": 2,
+        "text": " \u00e0",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 44000000,
+        "text_offset": 63,
+        "word_length": 3,
+        "text": " la",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 45199999,
+        "text_offset": 66,
+        "word_length": 6,
+        "text": " somme",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 49000000,
+        "text_offset": 72,
+        "word_length": 4,
+        "text": " des",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 50800000,
+        "text_offset": 76,
+        "word_length": 5,
+        "text": " airs",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 55199999,
+        "text_offset": 81,
+        "word_length": 4,
+        "text": " des",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 56000000,
+        "text_offset": 85,
+        "word_length": 7,
+        "text": " carr\u00e9.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " d\u00e9montrant ainsi que l'heure du rectangle et bien inf\u00e9rieure \u00e0 la somme des airs des carr\u00e9.",
+    "final_audio": "demontrant-ainsi-que-l-aire-du-rectangle-est-bien-00d75287.mp3"
+  },
+  {
+    "input_text": "Commen\u00e7ons par le cas x = y i.e avec un carr\u00e9",
+    "input_data": {
+      "input_text": "Commen\u00e7ons par le cas x = y i.e avec un carr\u00e9",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "commencons-par-le-cas-x-y-i-e-avec-un-carre-7c0db99c.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 2400000,
+        "text_offset": 0,
+        "word_length": 11,
+        "text": " commen\u00e7ons",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 5600000,
+        "text_offset": 11,
+        "word_length": 4,
+        "text": " par",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 10000000,
+        "text_offset": 15,
+        "word_length": 3,
+        "text": " le",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 12800000,
+        "text_offset": 18,
+        "word_length": 4,
+        "text": " cas",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 16000000,
+        "text_offset": 22,
+        "word_length": 2,
+        "text": " X",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 24000000,
+        "text_offset": 24,
+        "word_length": 5,
+        "text": " \u00e9gal",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 27799999,
+        "text_offset": 29,
+        "word_length": 8,
+        "text": " direct,",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 34800000,
+        "text_offset": 37,
+        "word_length": 2,
+        "text": " c",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 34800000,
+        "text_offset": 39,
+        "word_length": 4,
+        "text": "'est",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 35800000,
+        "text_offset": 43,
+        "word_length": 2,
+        "text": " \u00e0",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 36800000,
+        "text_offset": 45,
+        "word_length": 5,
+        "text": " dire",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 38600000,
+        "text_offset": 50,
+        "word_length": 5,
+        "text": " avec",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 42400000,
+        "text_offset": 55,
+        "word_length": 3,
+        "text": " un",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 45000000,
+        "text_offset": 58,
+        "word_length": 7,
+        "text": " carr\u00e9.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " commen\u00e7ons par le cas X \u00e9gal direct, c'est \u00e0 dire avec un carr\u00e9.",
+    "final_audio": "commencons-par-le-cas-x-y-i-e-avec-un-carre-7c0db99c.mp3"
+  },
+  {
+    "input_text": "L'aire du carr\u00e9 est \u00e9gale \u00e0 c carr\u00e9",
+    "input_data": {
+      "input_text": "L'aire du carr\u00e9 est \u00e9gale \u00e0 c carr\u00e9",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "l-aire-du-carre-est-egale-a-c-carre-a7037bd7.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 3000000,
+        "text_offset": 0,
+        "word_length": 2,
+        "text": " L",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 4000000,
+        "text_offset": 2,
+        "word_length": 4,
+        "text": "'air",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 6400000,
+        "text_offset": 6,
+        "word_length": 3,
+        "text": " du",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 8199999,
+        "text_offset": 9,
+        "word_length": 6,
+        "text": " carr\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 14000000,
+        "text_offset": 15,
+        "word_length": 4,
+        "text": " est",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 17000000,
+        "text_offset": 19,
+        "word_length": 5,
+        "text": " \u00e9gal",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 20800000,
+        "text_offset": 24,
+        "word_length": 2,
+        "text": " \u00e0",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 24200000,
+        "text_offset": 26,
+        "word_length": 4,
+        "text": " ces",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 27200000,
+        "text_offset": 30,
+        "word_length": 7,
+        "text": " carr\u00e9.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " L'air du carr\u00e9 est \u00e9gal \u00e0 ces carr\u00e9.",
+    "final_audio": "l-aire-du-carre-est-egale-a-c-carre-a7037bd7.mp3"
+  },
+  {
+    "input_text": "D\u00e9formons maintenant ce carr\u00e9 en un rectangle",
+    "input_data": {
+      "input_text": "D\u00e9formons maintenant ce carr\u00e9 en un rectangle",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "deformons-maintenant-ce-carre-en-un-rectangle-2ba86b27.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 400000,
+        "text_offset": 0,
+        "word_length": 2,
+        "text": " D",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 1600000,
+        "text_offset": 2,
+        "word_length": 12,
+        "text": "'effortement",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 6400000,
+        "text_offset": 14,
+        "word_length": 12,
+        "text": " maintenant,",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 13000000,
+        "text_offset": 26,
+        "word_length": 3,
+        "text": " on",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 13000000,
+        "text_offset": 29,
+        "word_length": 3,
+        "text": " se",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 15400000,
+        "text_offset": 32,
+        "word_length": 6,
+        "text": " carr\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 18400000,
+        "text_offset": 38,
+        "word_length": 3,
+        "text": " en",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 23400000,
+        "text_offset": 41,
+        "word_length": 11,
+        "text": " rectangle.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " D'effortement maintenant, on se carr\u00e9 en rectangle.",
+    "final_audio": "deformons-maintenant-ce-carre-en-un-rectangle-2ba86b27.mp3"
+  },
+  {
+    "input_text": "L'aire du rectangle est xy, et l'in\u00e9galit\u00e9 de Young nous dit que xy est inf\u00e9rieur ou \u00e9gal \u00e0 x carr\u00e9 plus y carr\u00e9 sur 2",
+    "input_data": {
+      "input_text": "L'aire du rectangle est xy, et l'in\u00e9galit\u00e9 de Young nous dit que xy est inf\u00e9rieur ou \u00e9gal \u00e0 x carr\u00e9 plus y carr\u00e9 sur 2",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "l-aire-du-rectangle-est-xy-et-l-inegalite-de-young-b05e977e.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 2800000,
+        "text_offset": 0,
+        "word_length": 2,
+        "text": " l",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 4000000,
+        "text_offset": 2,
+        "word_length": 4,
+        "text": "'air",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 6400000,
+        "text_offset": 6,
+        "word_length": 3,
+        "text": " du",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 8400000,
+        "text_offset": 9,
+        "word_length": 10,
+        "text": " rectangle",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 12000000,
+        "text_offset": 19,
+        "word_length": 3,
+        "text": " et",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 29400000,
+        "text_offset": 22,
+        "word_length": 2,
+        "text": " x",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 31200000,
+        "text_offset": 24,
+        "word_length": 5,
+        "text": " faut",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 33400000,
+        "text_offset": 29,
+        "word_length": 2,
+        "text": " y",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 35200000,
+        "text_offset": 31,
+        "word_length": 2,
+        "text": " c",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 40800000,
+        "text_offset": 33,
+        "word_length": 4,
+        "text": "'est",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 41200000,
+        "text_offset": 37,
+        "word_length": 2,
+        "text": " \u00e0",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 42000000,
+        "text_offset": 39,
+        "word_length": 5,
+        "text": " dire",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 43200000,
+        "text_offset": 44,
+        "word_length": 3,
+        "text": " xy",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 59200000,
+        "text_offset": 47,
+        "word_length": 3,
+        "text": " et",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 60199999,
+        "text_offset": 50,
+        "word_length": 2,
+        "text": " l",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 61400000,
+        "text_offset": 52,
+        "word_length": 10,
+        "text": "'in\u00e9galit\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 65800000,
+        "text_offset": 62,
+        "word_length": 3,
+        "text": " de",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 67400000,
+        "text_offset": 65,
+        "word_length": 2,
+        "text": " y",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 68800000,
+        "text_offset": 67,
+        "word_length": 5,
+        "text": " nous",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 71200000,
+        "text_offset": 72,
+        "word_length": 4,
+        "text": " dit",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 73200000,
+        "text_offset": 76,
+        "word_length": 4,
+        "text": " que",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 76200000,
+        "text_offset": 80,
+        "word_length": 3,
+        "text": " xy",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 82000000,
+        "text_offset": 83,
+        "word_length": 4,
+        "text": " est",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 86400000,
+        "text_offset": 87,
+        "word_length": 10,
+        "text": " inf\u00e9rieur",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 92800000,
+        "text_offset": 97,
+        "word_length": 2,
+        "text": " \u00e0",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 97400000,
+        "text_offset": 99,
+        "word_length": 2,
+        "text": " x",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 100600000,
+        "text_offset": 101,
+        "word_length": 6,
+        "text": " carr\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 105000000,
+        "text_offset": 107,
+        "word_length": 5,
+        "text": " plus",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 109000000,
+        "text_offset": 112,
+        "word_length": 2,
+        "text": " y",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 114600000,
+        "text_offset": 114,
+        "word_length": 6,
+        "text": " carr\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 119200000,
+        "text_offset": 120,
+        "word_length": 4,
+        "text": " sur",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 121600000,
+        "text_offset": 124,
+        "word_length": 2,
+        "text": " l",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 122800000,
+        "text_offset": 126,
+        "word_length": 4,
+        "text": "'eau",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 130200000,
+        "text_offset": 130,
+        "word_length": 2,
+        "text": " c",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 131400000,
+        "text_offset": 132,
+        "word_length": 4,
+        "text": "'est",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 132400000,
+        "text_offset": 136,
+        "word_length": 2,
+        "text": " \u00e0",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 132600000,
+        "text_offset": 138,
+        "word_length": 5,
+        "text": " dire",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 139600000,
+        "text_offset": 143,
+        "word_length": 3,
+        "text": " la",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 140600000,
+        "text_offset": 146,
+        "word_length": 8,
+        "text": " moyenne",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 144400000,
+        "text_offset": 154,
+        "word_length": 13,
+        "text": " arithm\u00e9tique",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 152600000,
+        "text_offset": 167,
+        "word_length": 4,
+        "text": " est",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 153600000,
+        "text_offset": 171,
+        "word_length": 6,
+        "text": " carr\u00e9",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " l'air du rectangle et x faut y c'est \u00e0 dire xy et l'in\u00e9galit\u00e9 de y nous dit que xy est inf\u00e9rieur \u00e0 x carr\u00e9 plus y carr\u00e9 sur l'eau c'est \u00e0 dire la moyenne arithm\u00e9tique est carr\u00e9",
+    "final_audio": "l-aire-du-rectangle-est-xy-et-l-inegalite-de-young-b05e977e.mp3"
+  },
+  {
+    "input_text": "On peut visualiser cela en tra\u00e7ant la diagonale et en colorant les triangles",
+    "input_data": {
+      "input_text": "On peut visualiser cela en tra\u00e7ant la diagonale et en colorant les triangles",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "on-peut-visualiser-cela-en-tracant-la-diagonale-et-f1fa5626.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 1800000,
+        "text_offset": 0,
+        "word_length": 3,
+        "text": " On",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 4400000,
+        "text_offset": 3,
+        "word_length": 5,
+        "text": " peut",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 5400000,
+        "text_offset": 8,
+        "word_length": 11,
+        "text": " visualiser",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 14200000,
+        "text_offset": 19,
+        "word_length": 5,
+        "text": " cela",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 17800000,
+        "text_offset": 24,
+        "word_length": 3,
+        "text": " en",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 23400000,
+        "text_offset": 27,
+        "word_length": 8,
+        "text": " tracant",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 29000000,
+        "text_offset": 35,
+        "word_length": 3,
+        "text": " la",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 30600000,
+        "text_offset": 38,
+        "word_length": 10,
+        "text": " diagonale",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 38000000,
+        "text_offset": 48,
+        "word_length": 3,
+        "text": " et",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 40400000,
+        "text_offset": 51,
+        "word_length": 3,
+        "text": " en",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 43600000,
+        "text_offset": 54,
+        "word_length": 9,
+        "text": " colorant",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 47800000,
+        "text_offset": 63,
+        "word_length": 4,
+        "text": " les",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 49800000,
+        "text_offset": 67,
+        "word_length": 11,
+        "text": " triangles.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " On peut visualiser cela en tracant la diagonale et en colorant les triangles.",
+    "final_audio": "on-peut-visualiser-cela-en-tracant-la-diagonale-et-f1fa5626.mp3"
+  },
+  {
+    "input_text": "Commen\u00e7ons par le cas d'\u00e9galit\u00e9 avec un carr\u00e9 parfait",
+    "input_data": {
+      "input_text": "Commen\u00e7ons par le cas d'\u00e9galit\u00e9 avec un carr\u00e9 parfait",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "commencons-par-le-cas-d-egalite-avec-un-carre-4ceacd7b.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 1800000,
+        "text_offset": 0,
+        "word_length": 11,
+        "text": " Commen\u00e7ons",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 7800000,
+        "text_offset": 11,
+        "word_length": 4,
+        "text": " par",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 11200000,
+        "text_offset": 15,
+        "word_length": 3,
+        "text": " le",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 13400000,
+        "text_offset": 18,
+        "word_length": 4,
+        "text": " cas",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 15800000,
+        "text_offset": 22,
+        "word_length": 2,
+        "text": " d",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 17400000,
+        "text_offset": 24,
+        "word_length": 8,
+        "text": "'\u00e9galit\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 24000000,
+        "text_offset": 32,
+        "word_length": 5,
+        "text": " avec",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 28000000,
+        "text_offset": 37,
+        "word_length": 3,
+        "text": " un",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 33400000,
+        "text_offset": 40,
+        "word_length": 6,
+        "text": " carr\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 38000000,
+        "text_offset": 46,
+        "word_length": 9,
+        "text": " parfait.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " Commen\u00e7ons par le cas d'\u00e9galit\u00e9 avec un carr\u00e9 parfait.",
+    "final_audio": "commencons-par-le-cas-d-egalite-avec-un-carre-4ceacd7b.mp3"
+  },
+  {
+    "input_text": "L'aire du carr\u00e9 est \u00e9gale \u00e0 x carr\u00e9, qui est exactement la somme des deux demi-carr\u00e9s form\u00e9s par la diagonale",
+    "input_data": {
+      "input_text": "L'aire du carr\u00e9 est \u00e9gale \u00e0 x carr\u00e9, qui est exactement la somme des deux demi-carr\u00e9s form\u00e9s par la diagonale",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "l-aire-du-carre-est-egale-a-x-carre-qui-est-b27ce1d7.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 3200000,
+        "text_offset": 0,
+        "word_length": 2,
+        "text": " l",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 4800000,
+        "text_offset": 2,
+        "word_length": 4,
+        "text": "'air",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 6400000,
+        "text_offset": 6,
+        "word_length": 3,
+        "text": " du",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 8199999,
+        "text_offset": 9,
+        "word_length": 6,
+        "text": " carr\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 12000000,
+        "text_offset": 15,
+        "word_length": 4,
+        "text": " est",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 14200000,
+        "text_offset": 19,
+        "word_length": 5,
+        "text": " \u00e9gal",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 17200000,
+        "text_offset": 24,
+        "word_length": 2,
+        "text": " \u00e0",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 20600000,
+        "text_offset": 26,
+        "word_length": 2,
+        "text": " X",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 24400000,
+        "text_offset": 28,
+        "word_length": 6,
+        "text": "-carre",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 29000000,
+        "text_offset": 34,
+        "word_length": 4,
+        "text": " qui",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 36800000,
+        "text_offset": 38,
+        "word_length": 11,
+        "text": " exactement",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 45199999,
+        "text_offset": 49,
+        "word_length": 3,
+        "text": " la",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 52000000,
+        "text_offset": 52,
+        "word_length": 6,
+        "text": " somme",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 59000000,
+        "text_offset": 58,
+        "word_length": 4,
+        "text": " des",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 60199999,
+        "text_offset": 62,
+        "word_length": 5,
+        "text": " deux",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 68800000,
+        "text_offset": 67,
+        "word_length": 5,
+        "text": " demi",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 70800000,
+        "text_offset": 72,
+        "word_length": 6,
+        "text": "-carre",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 74600000,
+        "text_offset": 78,
+        "word_length": 7,
+        "text": " form\u00e9s",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 79800000,
+        "text_offset": 85,
+        "word_length": 4,
+        "text": " par",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 83000000,
+        "text_offset": 89,
+        "word_length": 3,
+        "text": " la",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 85000000,
+        "text_offset": 92,
+        "word_length": 10,
+        "text": " diagonal.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " l'air du carr\u00e9 est \u00e9gal \u00e0 X-carre qui exactement la somme des deux demi-carre form\u00e9s par la diagonal.",
+    "final_audio": "l-aire-du-carre-est-egale-a-x-carre-qui-est-b27ce1d7.mp3"
+  },
+  {
+    "input_text": "Transformons maintenant le carr\u00e9 en rectangle avec x et y diff\u00e9rents",
+    "input_data": {
+      "input_text": "Transformons maintenant le carr\u00e9 en rectangle avec x et y diff\u00e9rents",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "transformons-maintenant-le-carre-en-rectangle-avec-2a4c360c.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 6600000,
+        "text_offset": 0,
+        "word_length": 13,
+        "text": " Transformons",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 9600000,
+        "text_offset": 13,
+        "word_length": 11,
+        "text": " maintenant",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 14000000,
+        "text_offset": 24,
+        "word_length": 3,
+        "text": " le",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 18000000,
+        "text_offset": 27,
+        "word_length": 6,
+        "text": " carr\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 22400000,
+        "text_offset": 33,
+        "word_length": 3,
+        "text": " en",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 27400000,
+        "text_offset": 36,
+        "word_length": 10,
+        "text": " rectangle",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 33000000,
+        "text_offset": 46,
+        "word_length": 5,
+        "text": " avec",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 38400000,
+        "text_offset": 51,
+        "word_length": 2,
+        "text": " X",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 42600000,
+        "text_offset": 53,
+        "word_length": 3,
+        "text": " et",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 44200000,
+        "text_offset": 56,
+        "word_length": 3,
+        "text": " Y.",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 53200000,
+        "text_offset": 59,
+        "word_length": 11,
+        "text": " Diff\u00e9rent.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " Transformons maintenant le carr\u00e9 en rectangle avec X et Y. Diff\u00e9rent.",
+    "final_audio": "transformons-maintenant-le-carre-en-rectangle-avec-2a4c360c.mp3"
+  },
+  {
+    "input_text": "L'aire du rectangle xy est maintenant inf\u00e9rieure \u00e0 la moyenne arithm\u00e9tique des carr\u00e9s. C'est l'in\u00e9galit\u00e9 de Young qui peut aussi s'interpr\u00e9ter comme la comparaison entre la moyenne g\u00e9om\u00e9trique et la moyenne arithm\u00e9tique des carr\u00e9s",
+    "input_data": {
+      "input_text": "L'aire du rectangle xy est maintenant inf\u00e9rieure \u00e0 la moyenne arithm\u00e9tique des carr\u00e9s. C'est l'in\u00e9galit\u00e9 de Young qui peut aussi s'interpr\u00e9ter comme la comparaison entre la moyenne g\u00e9om\u00e9trique et la moyenne arithm\u00e9tique des carr\u00e9s",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "l-aire-du-rectangle-xy-est-maintenant-inferieure-a-450fabe3.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 4000000,
+        "text_offset": 0,
+        "word_length": 2,
+        "text": " L",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 5600000,
+        "text_offset": 2,
+        "word_length": 4,
+        "text": "'air",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 8600000,
+        "text_offset": 6,
+        "word_length": 3,
+        "text": " du",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 10600000,
+        "text_offset": 9,
+        "word_length": 10,
+        "text": " rectangle",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 15000000,
+        "text_offset": 19,
+        "word_length": 2,
+        "text": " X",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 19600000,
+        "text_offset": 21,
+        "word_length": 5,
+        "text": "-GREC",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 26600000,
+        "text_offset": 26,
+        "word_length": 4,
+        "text": " est",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 27599999,
+        "text_offset": 30,
+        "word_length": 11,
+        "text": " maintenant",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 31600000,
+        "text_offset": 41,
+        "word_length": 11,
+        "text": " inf\u00e9rieure",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 39600000,
+        "text_offset": 52,
+        "word_length": 2,
+        "text": " \u00e0",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 40400000,
+        "text_offset": 54,
+        "word_length": 3,
+        "text": " la",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 41600000,
+        "text_offset": 57,
+        "word_length": 8,
+        "text": " moyenne",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 44000000,
+        "text_offset": 65,
+        "word_length": 13,
+        "text": " arithm\u00e9tique",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 48600000,
+        "text_offset": 78,
+        "word_length": 4,
+        "text": " des",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 50400000,
+        "text_offset": 82,
+        "word_length": 8,
+        "text": " carr\u00e9s.",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 59600000,
+        "text_offset": 90,
+        "word_length": 2,
+        "text": " C",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 60599999,
+        "text_offset": 92,
+        "word_length": 4,
+        "text": "'est",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 61000000,
+        "text_offset": 96,
+        "word_length": 2,
+        "text": " l",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 65400000,
+        "text_offset": 98,
+        "word_length": 10,
+        "text": "'in\u00e9galit\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 66400000,
+        "text_offset": 108,
+        "word_length": 3,
+        "text": " de",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 68000000,
+        "text_offset": 111,
+        "word_length": 5,
+        "text": " Jung",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 69200000,
+        "text_offset": 116,
+        "word_length": 4,
+        "text": " qui",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 71400000,
+        "text_offset": 120,
+        "word_length": 5,
+        "text": " peut",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 75400000,
+        "text_offset": 125,
+        "word_length": 6,
+        "text": " aussi",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 76400000,
+        "text_offset": 131,
+        "word_length": 2,
+        "text": " s",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 78200000,
+        "text_offset": 133,
+        "word_length": 12,
+        "text": "'interpr\u00e9ter",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 82600000,
+        "text_offset": 145,
+        "word_length": 6,
+        "text": " comme",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 85000000,
+        "text_offset": 151,
+        "word_length": 3,
+        "text": " la",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 86400000,
+        "text_offset": 154,
+        "word_length": 12,
+        "text": " comparaison",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 92800000,
+        "text_offset": 166,
+        "word_length": 6,
+        "text": " entre",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 93800000,
+        "text_offset": 172,
+        "word_length": 3,
+        "text": " la",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 94800000,
+        "text_offset": 175,
+        "word_length": 8,
+        "text": " moyenne",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 97600000,
+        "text_offset": 183,
+        "word_length": 12,
+        "text": " g\u00e9om\u00e9trique",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 102600000,
+        "text_offset": 195,
+        "word_length": 3,
+        "text": " et",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 105200000,
+        "text_offset": 198,
+        "word_length": 3,
+        "text": " la",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 106199999,
+        "text_offset": 201,
+        "word_length": 8,
+        "text": " moyenne",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 109400000,
+        "text_offset": 209,
+        "word_length": 13,
+        "text": " arithm\u00e9tique",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 115600000,
+        "text_offset": 222,
+        "word_length": 4,
+        "text": " des",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 117400000,
+        "text_offset": 226,
+        "word_length": 8,
+        "text": " carr\u00e9s.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " L'air du rectangle X-GREC est maintenant inf\u00e9rieure \u00e0 la moyenne arithm\u00e9tique des carr\u00e9s. C'est l'in\u00e9galit\u00e9 de Jung qui peut aussi s'interpr\u00e9ter comme la comparaison entre la moyenne g\u00e9om\u00e9trique et la moyenne arithm\u00e9tique des carr\u00e9s.",
+    "final_audio": "l-aire-du-rectangle-xy-est-maintenant-inferieure-a-450fabe3.mp3"
+  },
+  {
+    "input_text": "La diff\u00e9rence entre les deux aires est clairement visible",
+    "input_data": {
+      "input_text": "La diff\u00e9rence entre les deux aires est clairement visible",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "la-difference-entre-les-deux-aires-est-clairement-aec95ce3.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 2400000,
+        "text_offset": 0,
+        "word_length": 3,
+        "text": " la",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 4400000,
+        "text_offset": 3,
+        "word_length": 11,
+        "text": " diff\u00e9rence",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 10400000,
+        "text_offset": 14,
+        "word_length": 6,
+        "text": " entre",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 16200000,
+        "text_offset": 20,
+        "word_length": 4,
+        "text": " les",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 18000000,
+        "text_offset": 24,
+        "word_length": 5,
+        "text": " deux",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 19800000,
+        "text_offset": 29,
+        "word_length": 5,
+        "text": " airs",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 23600000,
+        "text_offset": 34,
+        "word_length": 4,
+        "text": " est",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 24400000,
+        "text_offset": 38,
+        "word_length": 11,
+        "text": " clairement",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 28000000,
+        "text_offset": 49,
+        "word_length": 9,
+        "text": " visible.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " la diff\u00e9rence entre les deux airs est clairement visible.",
+    "final_audio": "la-difference-entre-les-deux-aires-est-clairement-aec95ce3.mp3"
+  },
+  {
+    "input_text": "Commen\u00e7ons avec un carr\u00e9 de c\u00f4t\u00e9 x",
+    "input_data": {
+      "input_text": "Commen\u00e7ons avec un carr\u00e9 de c\u00f4t\u00e9 x",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "commencons-avec-un-carre-de-cote-x-f53c6ba1.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 1800000,
+        "text_offset": 0,
+        "word_length": 11,
+        "text": " Commen\u00e7ons",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 6600000,
+        "text_offset": 11,
+        "word_length": 5,
+        "text": " avec",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 11800000,
+        "text_offset": 16,
+        "word_length": 3,
+        "text": " un",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 14200000,
+        "text_offset": 19,
+        "word_length": 6,
+        "text": " carr\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 18600000,
+        "text_offset": 25,
+        "word_length": 3,
+        "text": " de",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 22799999,
+        "text_offset": 28,
+        "word_length": 5,
+        "text": " c\u00f4t\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 25800000,
+        "text_offset": 33,
+        "word_length": 3,
+        "text": " X.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " Commen\u00e7ons avec un carr\u00e9 de c\u00f4t\u00e9 X.",
+    "final_audio": "commencons-avec-un-carre-de-cote-x-f53c6ba1.mp3"
+  },
+  {
+    "input_text": "L'aire est x carr\u00e9, exactement \u00e9gale \u00e0 la somme des deux demi-carr\u00e9s form\u00e9s par la diagonale",
+    "input_data": {
+      "input_text": "L'aire est x carr\u00e9, exactement \u00e9gale \u00e0 la somme des deux demi-carr\u00e9s form\u00e9s par la diagonale",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "l-aire-est-x-carre-exactement-egale-a-la-somme-des-8cea35ef.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 1600000,
+        "text_offset": 0,
+        "word_length": 2,
+        "text": " l",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 3800000,
+        "text_offset": 2,
+        "word_length": 4,
+        "text": "'air",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 7000000,
+        "text_offset": 6,
+        "word_length": 4,
+        "text": " est",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 10200000,
+        "text_offset": 10,
+        "word_length": 10,
+        "text": " exocarr\u00e9.",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 27900000,
+        "text_offset": 20,
+        "word_length": 12,
+        "text": " Exactement,",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 35400000,
+        "text_offset": 32,
+        "word_length": 2,
+        "text": " \u00e0",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 38000000,
+        "text_offset": 34,
+        "word_length": 3,
+        "text": " la",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 43800000,
+        "text_offset": 37,
+        "word_length": 6,
+        "text": " somme",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 46800000,
+        "text_offset": 43,
+        "word_length": 4,
+        "text": " des",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 49000000,
+        "text_offset": 47,
+        "word_length": 5,
+        "text": " deux",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 52200000,
+        "text_offset": 52,
+        "word_length": 3,
+        "text": " de",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 53200000,
+        "text_offset": 55,
+        "word_length": 2,
+        "text": " l",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 54600000,
+        "text_offset": 57,
+        "word_length": 6,
+        "text": "'Icar\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 58800000,
+        "text_offset": 63,
+        "word_length": 7,
+        "text": " form\u00e9s",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 62600000,
+        "text_offset": 70,
+        "word_length": 4,
+        "text": " par",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 64400000,
+        "text_offset": 74,
+        "word_length": 3,
+        "text": " la",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 66000000,
+        "text_offset": 77,
+        "word_length": 10,
+        "text": " diagonal.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " l'air est exocarr\u00e9. Exactement, \u00e0 la somme des deux de l'Icar\u00e9 form\u00e9s par la diagonal.",
+    "final_audio": "l-aire-est-x-carre-exactement-egale-a-la-somme-des-8cea35ef.mp3"
+  },
+  {
+    "input_text": "Maintenant, \u00e9cartons d'abord la dimension horizontale",
+    "input_data": {
+      "input_text": "Maintenant, \u00e9cartons d'abord la dimension horizontale",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "maintenant-ecartons-d-abord-la-dimension-9fa84cad.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 0,
+        "text_offset": 0,
+        "word_length": 12,
+        "text": " Maintenant,",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 9400000,
+        "text_offset": 12,
+        "word_length": 3,
+        "text": " et",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 10000000,
+        "text_offset": 15,
+        "word_length": 7,
+        "text": " carton",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 14800000,
+        "text_offset": 22,
+        "word_length": 2,
+        "text": " d",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 16200000,
+        "text_offset": 24,
+        "word_length": 6,
+        "text": "'abord",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 18200000,
+        "text_offset": 30,
+        "word_length": 3,
+        "text": " la",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 20600000,
+        "text_offset": 33,
+        "word_length": 10,
+        "text": " dimension",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 26200000,
+        "text_offset": 43,
+        "word_length": 13,
+        "text": " horizontale.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " Maintenant, et carton d'abord la dimension horizontale.",
+    "final_audio": "maintenant-ecartons-d-abord-la-dimension-9fa84cad.mp3"
+  },
+  {
+    "input_text": "Puis la dimension verticale",
+    "input_data": {
+      "input_text": "Puis la dimension verticale",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "puis-la-dimension-verticale-eea838d0.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 4600000,
+        "text_offset": 0,
+        "word_length": 5,
+        "text": " puis",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 5600000,
+        "text_offset": 5,
+        "word_length": 3,
+        "text": " la",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 7400000,
+        "text_offset": 8,
+        "word_length": 10,
+        "text": " dimension",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 12400000,
+        "text_offset": 18,
+        "word_length": 11,
+        "text": " verticale.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " puis la dimension verticale.",
+    "final_audio": "puis-la-dimension-verticale-eea838d0.mp3"
+  },
+  {
+    "input_text": "La diagonale s'adapte au nouveau rectangle",
+    "input_data": {
+      "input_text": "La diagonale s'adapte au nouveau rectangle",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "la-diagonale-s-adapte-au-nouveau-rectangle-d0695c5e.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 19200000,
+        "text_offset": 0,
+        "word_length": 3,
+        "text": " La",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 20400000,
+        "text_offset": 3,
+        "word_length": 10,
+        "text": " diagonale",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 28600000,
+        "text_offset": 13,
+        "word_length": 2,
+        "text": " s",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 30800000,
+        "text_offset": 15,
+        "word_length": 7,
+        "text": "'adapte",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 36400000,
+        "text_offset": 22,
+        "word_length": 3,
+        "text": " au",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 37600000,
+        "text_offset": 25,
+        "word_length": 8,
+        "text": " nouveau",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 40800000,
+        "text_offset": 33,
+        "word_length": 11,
+        "text": " rectangle.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " La diagonale s'adapte au nouveau rectangle.",
+    "final_audio": "la-diagonale-s-adapte-au-nouveau-rectangle-d0695c5e.mp3"
+  },
+  {
+    "input_text": "L'aire devient xy et l'in\u00e9galit\u00e9 de Young appara\u00eet d\u00e8s que x et y sont diff\u00e9rents",
+    "input_data": {
+      "input_text": "L'aire devient xy et l'in\u00e9galit\u00e9 de Young appara\u00eet d\u00e8s que x et y sont diff\u00e9rents",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "l-aire-devient-xy-et-l-inegalite-de-young-apparait-59cba0eb.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 1800000,
+        "text_offset": 0,
+        "word_length": 2,
+        "text": " L",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 3600000,
+        "text_offset": 2,
+        "word_length": 4,
+        "text": "'air",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 6800000,
+        "text_offset": 6,
+        "word_length": 8,
+        "text": " devient",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 10800000,
+        "text_offset": 14,
+        "word_length": 2,
+        "text": " X",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 15200000,
+        "text_offset": 16,
+        "word_length": 2,
+        "text": "-Y",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 18400000,
+        "text_offset": 18,
+        "word_length": 3,
+        "text": " et",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 23000000,
+        "text_offset": 21,
+        "word_length": 2,
+        "text": " l",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 24600000,
+        "text_offset": 23,
+        "word_length": 10,
+        "text": "'in\u00e9galit\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 31200000,
+        "text_offset": 33,
+        "word_length": 3,
+        "text": " de",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 33000000,
+        "text_offset": 36,
+        "word_length": 5,
+        "text": " Jung",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 35600000,
+        "text_offset": 41,
+        "word_length": 9,
+        "text": " appara\u00eet",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 43000000,
+        "text_offset": 50,
+        "word_length": 4,
+        "text": " d\u00e8s",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 44600000,
+        "text_offset": 54,
+        "word_length": 4,
+        "text": " que",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 46800000,
+        "text_offset": 58,
+        "word_length": 2,
+        "text": " X",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 50400000,
+        "text_offset": 60,
+        "word_length": 3,
+        "text": "-Ys",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 56800000,
+        "text_offset": 63,
+        "word_length": 5,
+        "text": " sont",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 59400000,
+        "text_offset": 68,
+        "word_length": 12,
+        "text": " diff\u00e9rents.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " L'air devient X-Y et l'in\u00e9galit\u00e9 de Jung appara\u00eet d\u00e8s que X-Ys sont diff\u00e9rents.",
+    "final_audio": "l-aire-devient-xy-et-l-inegalite-de-young-apparait-59cba0eb.mp3"
+  },
+  {
+    "input_text": "L'\u00e9cart entre les deux aires repr\u00e9sente l'in\u00e9galit\u00e9",
+    "input_data": {
+      "input_text": "L'\u00e9cart entre les deux aires repr\u00e9sente l'in\u00e9galit\u00e9",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "l-ecart-entre-les-deux-aires-represente-l-478873c2.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 2200000,
+        "text_offset": 0,
+        "word_length": 4,
+        "text": " Les",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 4600000,
+        "text_offset": 4,
+        "word_length": 7,
+        "text": " carres",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 11399999,
+        "text_offset": 11,
+        "word_length": 6,
+        "text": " entre",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 14000000,
+        "text_offset": 17,
+        "word_length": 4,
+        "text": " les",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 16000000,
+        "text_offset": 21,
+        "word_length": 5,
+        "text": " deux",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 17800000,
+        "text_offset": 26,
+        "word_length": 7,
+        "text": " heures",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 23200000,
+        "text_offset": 33,
+        "word_length": 13,
+        "text": " repr\u00e9sentent",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 36400000,
+        "text_offset": 46,
+        "word_length": 2,
+        "text": " l",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 37800000,
+        "text_offset": 48,
+        "word_length": 11,
+        "text": "'in\u00e9galit\u00e9.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " Les carres entre les deux heures repr\u00e9sentent l'in\u00e9galit\u00e9.",
+    "final_audio": "l-ecart-entre-les-deux-aires-represente-l-478873c2.mp3"
+  },
+  {
+    "input_text": "\u00c9largissons x \u00e0 2 et conservons y \u00e0 1. Le rectangle orange a une aire de 2. Le carr\u00e9 rose totalise 4, soit 2 + 2, mais seule la moiti\u00e9 de chaque demi-carr\u00e9 est n\u00e9cessaire : 2 + 1 = 3. Colorons le triangle BEF : il a la m\u00eame aire que le triangle OAB du petit carr\u00e9, prouvant ainsi que 2 < 3.",
+    "input_data": {
+      "input_text": "\u00c9largissons x \u00e0 2 et conservons y \u00e0 1. Le rectangle orange a une aire de 2. Le carr\u00e9 rose totalise 4, soit 2 + 2, mais seule la moiti\u00e9 de chaque demi-carr\u00e9 est n\u00e9cessaire : 2 + 1 = 3. Colorons le triangle BEF : il a la m\u00eame aire que le triangle OAB du petit carr\u00e9, prouvant ainsi que 2 < 3.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "elargissons-x-a-2-et-conservons-y-a-1-le-rectangle-139f8b04.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 1600000,
+        "text_offset": 0,
+        "word_length": 3,
+        "text": " Il",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 3200000,
+        "text_offset": 3,
+        "word_length": 10,
+        "text": " argissons",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 11200000,
+        "text_offset": 13,
+        "word_length": 3,
+        "text": " la",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 13799999,
+        "text_offset": 16,
+        "word_length": 7,
+        "text": " figure",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 17400000,
+        "text_offset": 23,
+        "word_length": 4,
+        "text": " sur",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 20600000,
+        "text_offset": 27,
+        "word_length": 3,
+        "text": " la",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 22000000,
+        "text_offset": 30,
+        "word_length": 8,
+        "text": " droite.",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 35800000,
+        "text_offset": 38,
+        "word_length": 6,
+        "text": " Notre",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 36800000,
+        "text_offset": 44,
+        "word_length": 6,
+        "text": " carr\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 42800000,
+        "text_offset": 50,
+        "word_length": 3,
+        "text": " va",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 47600000,
+        "text_offset": 53,
+        "word_length": 8,
+        "text": " devenir",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 52000000,
+        "text_offset": 61,
+        "word_length": 3,
+        "text": " un",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 63400000,
+        "text_offset": 64,
+        "word_length": 10,
+        "text": " rectangle",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 67400000,
+        "text_offset": 74,
+        "word_length": 3,
+        "text": " de",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 71800000,
+        "text_offset": 77,
+        "word_length": 8,
+        "text": " largeur",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 76800000,
+        "text_offset": 85,
+        "word_length": 2,
+        "text": " 2",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 79800000,
+        "text_offset": 87,
+        "word_length": 3,
+        "text": " et",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 86000000,
+        "text_offset": 90,
+        "word_length": 3,
+        "text": " de",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 87200000,
+        "text_offset": 93,
+        "word_length": 9,
+        "text": " longueur",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 91000000,
+        "text_offset": 102,
+        "word_length": 3,
+        "text": " 1.",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 107200000,
+        "text_offset": 105,
+        "word_length": 3,
+        "text": " Le",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 108200000,
+        "text_offset": 108,
+        "word_length": 10,
+        "text": " rectangle",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 112800000,
+        "text_offset": 118,
+        "word_length": 7,
+        "text": " orange",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 118200000,
+        "text_offset": 125,
+        "word_length": 2,
+        "text": " a",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 120200000,
+        "text_offset": 127,
+        "word_length": 5,
+        "text": " donc",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 122000000,
+        "text_offset": 132,
+        "word_length": 4,
+        "text": " une",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 124400000,
+        "text_offset": 136,
+        "word_length": 5,
+        "text": " erre",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 127600000,
+        "text_offset": 141,
+        "word_length": 2,
+        "text": " 2",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 133200000,
+        "text_offset": 143,
+        "word_length": 6,
+        "text": " fois.",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 155200000,
+        "text_offset": 149,
+        "word_length": 3,
+        "text": " Le",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 156200000,
+        "text_offset": 152,
+        "word_length": 6,
+        "text": " carr\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 160000000,
+        "text_offset": 158,
+        "word_length": 5,
+        "text": " rose",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 163800000,
+        "text_offset": 163,
+        "word_length": 4,
+        "text": " lui",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 166600000,
+        "text_offset": 167,
+        "word_length": 5,
+        "text": " bas\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 174400000,
+        "text_offset": 172,
+        "word_length": 4,
+        "text": " sur",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 178200000,
+        "text_offset": 176,
+        "word_length": 2,
+        "text": " 2",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 181800000,
+        "text_offset": 178,
+        "word_length": 2,
+        "text": " \u00e0",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 186200000,
+        "text_offset": 180,
+        "word_length": 4,
+        "text": " une",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 188000000,
+        "text_offset": 184,
+        "word_length": 5,
+        "text": " erre",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 190400000,
+        "text_offset": 189,
+        "word_length": 3,
+        "text": " 2,",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 195600000,
+        "text_offset": 192,
+        "word_length": 6,
+        "text": " carr\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 199200000,
+        "text_offset": 198,
+        "word_length": 5,
+        "text": " soit",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 203200000,
+        "text_offset": 203,
+        "word_length": 3,
+        "text": " 4.",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 223400000,
+        "text_offset": 206,
+        "word_length": 3,
+        "text": " La",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 225799999,
+        "text_offset": 209,
+        "word_length": 6,
+        "text": " somme",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 231400000,
+        "text_offset": 215,
+        "word_length": 4,
+        "text": " des",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 233600000,
+        "text_offset": 219,
+        "word_length": 2,
+        "text": " 2",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 236800000,
+        "text_offset": 221,
+        "word_length": 4,
+        "text": " mis",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 238000000,
+        "text_offset": 225,
+        "word_length": 2,
+        "text": " 4",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 240600000,
+        "text_offset": 227,
+        "word_length": 4,
+        "text": " est",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 243800000,
+        "text_offset": 231,
+        "word_length": 3,
+        "text": " de",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 246600000,
+        "text_offset": 234,
+        "word_length": 2,
+        "text": " 2",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 252600000,
+        "text_offset": 236,
+        "word_length": 5,
+        "text": " plus",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 259400000,
+        "text_offset": 241,
+        "word_length": 3,
+        "text": " 1,",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 263400000,
+        "text_offset": 244,
+        "word_length": 5,
+        "text": " donc",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 264200000,
+        "text_offset": 249,
+        "word_length": 3,
+        "text": " 3.",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 275000000,
+        "text_offset": 252,
+        "word_length": 3,
+        "text": " On",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 276000000,
+        "text_offset": 255,
+        "word_length": 2,
+        "text": " a",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 277400000,
+        "text_offset": 257,
+        "word_length": 5,
+        "text": " bien",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 278800000,
+        "text_offset": 262,
+        "word_length": 3,
+        "text": " le",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 281200000,
+        "text_offset": 265,
+        "word_length": 10,
+        "text": " rectangle",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 284400000,
+        "text_offset": 275,
+        "word_length": 3,
+        "text": " de",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 288600000,
+        "text_offset": 278,
+        "word_length": 2,
+        "text": " 2",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 290600000,
+        "text_offset": 280,
+        "word_length": 2,
+        "text": " \u00e0",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 297400000,
+        "text_offset": 282,
+        "word_length": 3,
+        "text": " la",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 307400000,
+        "text_offset": 285,
+        "word_length": 6,
+        "text": " somme",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 311000000,
+        "text_offset": 291,
+        "word_length": 4,
+        "text": " des",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 313200000,
+        "text_offset": 295,
+        "word_length": 5,
+        "text": " erre",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 318800000,
+        "text_offset": 300,
+        "word_length": 4,
+        "text": " des",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 327000000,
+        "text_offset": 304,
+        "word_length": 2,
+        "text": " 2",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 331800000,
+        "text_offset": 306,
+        "word_length": 4,
+        "text": " mis",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 333600000,
+        "text_offset": 310,
+        "word_length": 2,
+        "text": " 4",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 338200000,
+        "text_offset": 312,
+        "word_length": 4,
+        "text": " qui",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 344400000,
+        "text_offset": 316,
+        "word_length": 3,
+        "text": " va",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 345200000,
+        "text_offset": 319,
+        "word_length": 3,
+        "text": " 3.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " Il argissons la figure sur la droite. Notre carr\u00e9 va devenir un rectangle de largeur 2 et de longueur 1. Le rectangle orange a donc une erre 2 fois. Le carr\u00e9 rose lui bas\u00e9 sur 2 \u00e0 une erre 2, carr\u00e9 soit 4. La somme des 2 mis 4 est de 2 plus 1, donc 3. On a bien le rectangle de 2 \u00e0 la somme des erre des 2 mis 4 qui va 3.",
+    "final_audio": "elargissons-x-a-2-et-conservons-y-a-1-le-rectangle-139f8b04.mp3"
+  },
+  {
+    "input_text": "Commen\u00e7ons avec un carr\u00e9 de c\u00f4t\u00e9 x",
+    "input_data": {
+      "input_text": "Commen\u00e7ons avec un carr\u00e9 de c\u00f4t\u00e9 x",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "commencons-avec-un-carre-de-cote-x-f53c6ba1.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 1800000,
+        "text_offset": 0,
+        "word_length": 11,
+        "text": " Commen\u00e7ons",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 6600000,
+        "text_offset": 11,
+        "word_length": 5,
+        "text": " avec",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 11800000,
+        "text_offset": 16,
+        "word_length": 3,
+        "text": " un",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 14200000,
+        "text_offset": 19,
+        "word_length": 6,
+        "text": " carr\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 18600000,
+        "text_offset": 25,
+        "word_length": 3,
+        "text": " de",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 22799999,
+        "text_offset": 28,
+        "word_length": 5,
+        "text": " c\u00f4t\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 25800000,
+        "text_offset": 33,
+        "word_length": 3,
+        "text": " X.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " Commen\u00e7ons avec un carr\u00e9 de c\u00f4t\u00e9 X.",
+    "final_audio": "commencons-avec-un-carre-de-cote-x-f53c6ba1.mp3"
+  },
+  {
+    "input_text": "L'aire est x carr\u00e9, exactement \u00e9gale \u00e0 la somme des deux demi-carr\u00e9s form\u00e9s par la diagonale",
+    "input_data": {
+      "input_text": "L'aire est x carr\u00e9, exactement \u00e9gale \u00e0 la somme des deux demi-carr\u00e9s form\u00e9s par la diagonale",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "l-aire-est-x-carre-exactement-egale-a-la-somme-des-8cea35ef.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 1600000,
+        "text_offset": 0,
+        "word_length": 2,
+        "text": " l",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 3800000,
+        "text_offset": 2,
+        "word_length": 4,
+        "text": "'air",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 7000000,
+        "text_offset": 6,
+        "word_length": 4,
+        "text": " est",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 10200000,
+        "text_offset": 10,
+        "word_length": 10,
+        "text": " exocarr\u00e9.",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 27900000,
+        "text_offset": 20,
+        "word_length": 12,
+        "text": " Exactement,",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 35400000,
+        "text_offset": 32,
+        "word_length": 2,
+        "text": " \u00e0",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 38000000,
+        "text_offset": 34,
+        "word_length": 3,
+        "text": " la",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 43800000,
+        "text_offset": 37,
+        "word_length": 6,
+        "text": " somme",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 46800000,
+        "text_offset": 43,
+        "word_length": 4,
+        "text": " des",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 49000000,
+        "text_offset": 47,
+        "word_length": 5,
+        "text": " deux",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 52200000,
+        "text_offset": 52,
+        "word_length": 3,
+        "text": " de",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 53200000,
+        "text_offset": 55,
+        "word_length": 2,
+        "text": " l",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 54600000,
+        "text_offset": 57,
+        "word_length": 6,
+        "text": "'Icar\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 58800000,
+        "text_offset": 63,
+        "word_length": 7,
+        "text": " form\u00e9s",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 62600000,
+        "text_offset": 70,
+        "word_length": 4,
+        "text": " par",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 64400000,
+        "text_offset": 74,
+        "word_length": 3,
+        "text": " la",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 66000000,
+        "text_offset": 77,
+        "word_length": 10,
+        "text": " diagonal.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " l'air est exocarr\u00e9. Exactement, \u00e0 la somme des deux de l'Icar\u00e9 form\u00e9s par la diagonal.",
+    "final_audio": "l-aire-est-x-carre-exactement-egale-a-la-somme-des-8cea35ef.mp3"
+  },
+  {
+    "input_text": "Maintenant, \u00e9cartons d'abord la dimension horizontale",
+    "input_data": {
+      "input_text": "Maintenant, \u00e9cartons d'abord la dimension horizontale",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "maintenant-ecartons-d-abord-la-dimension-9fa84cad.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 0,
+        "text_offset": 0,
+        "word_length": 12,
+        "text": " Maintenant,",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 9400000,
+        "text_offset": 12,
+        "word_length": 3,
+        "text": " et",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 10000000,
+        "text_offset": 15,
+        "word_length": 7,
+        "text": " carton",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 14800000,
+        "text_offset": 22,
+        "word_length": 2,
+        "text": " d",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 16200000,
+        "text_offset": 24,
+        "word_length": 6,
+        "text": "'abord",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 18200000,
+        "text_offset": 30,
+        "word_length": 3,
+        "text": " la",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 20600000,
+        "text_offset": 33,
+        "word_length": 10,
+        "text": " dimension",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 26200000,
+        "text_offset": 43,
+        "word_length": 13,
+        "text": " horizontale.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " Maintenant, et carton d'abord la dimension horizontale.",
+    "final_audio": "maintenant-ecartons-d-abord-la-dimension-9fa84cad.mp3"
+  },
+  {
+    "input_text": "Puis la dimension verticale",
+    "input_data": {
+      "input_text": "Puis la dimension verticale",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "puis-la-dimension-verticale-eea838d0.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 4600000,
+        "text_offset": 0,
+        "word_length": 5,
+        "text": " puis",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 5600000,
+        "text_offset": 5,
+        "word_length": 3,
+        "text": " la",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 7400000,
+        "text_offset": 8,
+        "word_length": 10,
+        "text": " dimension",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 12400000,
+        "text_offset": 18,
+        "word_length": 11,
+        "text": " verticale.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " puis la dimension verticale.",
+    "final_audio": "puis-la-dimension-verticale-eea838d0.mp3"
+  },
+  {
+    "input_text": "La diagonale s'adapte au nouveau rectangle",
+    "input_data": {
+      "input_text": "La diagonale s'adapte au nouveau rectangle",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "la-diagonale-s-adapte-au-nouveau-rectangle-d0695c5e.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 19200000,
+        "text_offset": 0,
+        "word_length": 3,
+        "text": " La",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 20400000,
+        "text_offset": 3,
+        "word_length": 10,
+        "text": " diagonale",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 28600000,
+        "text_offset": 13,
+        "word_length": 2,
+        "text": " s",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 30800000,
+        "text_offset": 15,
+        "word_length": 7,
+        "text": "'adapte",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 36400000,
+        "text_offset": 22,
+        "word_length": 3,
+        "text": " au",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 37600000,
+        "text_offset": 25,
+        "word_length": 8,
+        "text": " nouveau",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 40800000,
+        "text_offset": 33,
+        "word_length": 11,
+        "text": " rectangle.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " La diagonale s'adapte au nouveau rectangle.",
+    "final_audio": "la-diagonale-s-adapte-au-nouveau-rectangle-d0695c5e.mp3"
+  },
+  {
+    "input_text": "L'aire devient xy et l'in\u00e9galit\u00e9 de Young appara\u00eet d\u00e8s que x et y sont diff\u00e9rents",
+    "input_data": {
+      "input_text": "L'aire devient xy et l'in\u00e9galit\u00e9 de Young appara\u00eet d\u00e8s que x et y sont diff\u00e9rents",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "l-aire-devient-xy-et-l-inegalite-de-young-apparait-59cba0eb.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 1800000,
+        "text_offset": 0,
+        "word_length": 2,
+        "text": " L",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 3600000,
+        "text_offset": 2,
+        "word_length": 4,
+        "text": "'air",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 6800000,
+        "text_offset": 6,
+        "word_length": 8,
+        "text": " devient",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 10800000,
+        "text_offset": 14,
+        "word_length": 2,
+        "text": " X",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 15200000,
+        "text_offset": 16,
+        "word_length": 2,
+        "text": "-Y",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 18400000,
+        "text_offset": 18,
+        "word_length": 3,
+        "text": " et",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 23000000,
+        "text_offset": 21,
+        "word_length": 2,
+        "text": " l",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 24600000,
+        "text_offset": 23,
+        "word_length": 10,
+        "text": "'in\u00e9galit\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 31200000,
+        "text_offset": 33,
+        "word_length": 3,
+        "text": " de",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 33000000,
+        "text_offset": 36,
+        "word_length": 5,
+        "text": " Jung",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 35600000,
+        "text_offset": 41,
+        "word_length": 9,
+        "text": " appara\u00eet",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 43000000,
+        "text_offset": 50,
+        "word_length": 4,
+        "text": " d\u00e8s",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 44600000,
+        "text_offset": 54,
+        "word_length": 4,
+        "text": " que",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 46800000,
+        "text_offset": 58,
+        "word_length": 2,
+        "text": " X",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 50400000,
+        "text_offset": 60,
+        "word_length": 3,
+        "text": "-Ys",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 56800000,
+        "text_offset": 63,
+        "word_length": 5,
+        "text": " sont",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 59400000,
+        "text_offset": 68,
+        "word_length": 12,
+        "text": " diff\u00e9rents.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " L'air devient X-Y et l'in\u00e9galit\u00e9 de Jung appara\u00eet d\u00e8s que X-Ys sont diff\u00e9rents.",
+    "final_audio": "l-aire-devient-xy-et-l-inegalite-de-young-apparait-59cba0eb.mp3"
+  },
+  {
+    "input_text": "L'\u00e9cart entre les deux aires repr\u00e9sente l'in\u00e9galit\u00e9",
+    "input_data": {
+      "input_text": "L'\u00e9cart entre les deux aires repr\u00e9sente l'in\u00e9galit\u00e9",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "l-ecart-entre-les-deux-aires-represente-l-478873c2.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 2200000,
+        "text_offset": 0,
+        "word_length": 4,
+        "text": " Les",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 4600000,
+        "text_offset": 4,
+        "word_length": 7,
+        "text": " carres",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 11399999,
+        "text_offset": 11,
+        "word_length": 6,
+        "text": " entre",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 14000000,
+        "text_offset": 17,
+        "word_length": 4,
+        "text": " les",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 16000000,
+        "text_offset": 21,
+        "word_length": 5,
+        "text": " deux",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 17800000,
+        "text_offset": 26,
+        "word_length": 7,
+        "text": " heures",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 23200000,
+        "text_offset": 33,
+        "word_length": 13,
+        "text": " repr\u00e9sentent",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 36400000,
+        "text_offset": 46,
+        "word_length": 2,
+        "text": " l",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 37800000,
+        "text_offset": 48,
+        "word_length": 11,
+        "text": "'in\u00e9galit\u00e9.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " Les carres entre les deux heures repr\u00e9sentent l'in\u00e9galit\u00e9.",
+    "final_audio": "l-ecart-entre-les-deux-aires-represente-l-478873c2.mp3"
+  },
+  {
+    "input_text": "Voici le carr\u00e9 de c\u00f4t\u00e9 y, d'aire y carr\u00e9",
+    "input_data": {
+      "input_text": "Voici le carr\u00e9 de c\u00f4t\u00e9 y, d'aire y carr\u00e9",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "voici-le-carre-de-cote-y-d-aire-y-carre-e42af685.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 0,
+        "text_offset": 0,
+        "word_length": 6,
+        "text": " Voici",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 4000000,
+        "text_offset": 6,
+        "word_length": 3,
+        "text": " le",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 6800000,
+        "text_offset": 9,
+        "word_length": 6,
+        "text": " carr\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 12400000,
+        "text_offset": 15,
+        "word_length": 3,
+        "text": " de",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 14200000,
+        "text_offset": 18,
+        "word_length": 5,
+        "text": " c\u00f4t\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 18400000,
+        "text_offset": 23,
+        "word_length": 2,
+        "text": " Y",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 24000000,
+        "text_offset": 25,
+        "word_length": 3,
+        "text": "-3,",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 34400000,
+        "text_offset": 28,
+        "word_length": 2,
+        "text": " Y",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 38000000,
+        "text_offset": 30,
+        "word_length": 3,
+        "text": "-4.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " Voici le carr\u00e9 de c\u00f4t\u00e9 Y-3, Y-4.",
+    "final_audio": "voici-le-carre-de-cote-y-d-aire-y-carre-e42af685.mp3"
+  },
+  {
+    "input_text": "\u00c0 c\u00f4t\u00e9, le rectangle d'aire x fois y",
+    "input_data": {
+      "input_text": "\u00c0 c\u00f4t\u00e9, le rectangle d'aire x fois y",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "a-cote-le-rectangle-d-aire-x-fois-y-cf09ded1.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 1800000,
+        "text_offset": 0,
+        "word_length": 2,
+        "text": " A",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 3000000,
+        "text_offset": 2,
+        "word_length": 6,
+        "text": " c\u00f4t\u00e9,",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 10400000,
+        "text_offset": 8,
+        "word_length": 3,
+        "text": " le",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 11800000,
+        "text_offset": 11,
+        "word_length": 10,
+        "text": " rectangle",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 16600000,
+        "text_offset": 21,
+        "word_length": 3,
+        "text": " de",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 21200000,
+        "text_offset": 24,
+        "word_length": 2,
+        "text": " l",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 24400000,
+        "text_offset": 26,
+        "word_length": 6,
+        "text": "'hiver",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 24600000,
+        "text_offset": 32,
+        "word_length": 2,
+        "text": " x",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 27799999,
+        "text_offset": 34,
+        "word_length": 5,
+        "text": "-foye",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 32599999,
+        "text_offset": 39,
+        "word_length": 9,
+        "text": " correct.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " A c\u00f4t\u00e9, le rectangle de l'hiver x-foye correct.",
+    "final_audio": "a-cote-le-rectangle-d-aire-x-fois-y-cf09ded1.mp3"
+  },
+  {
+    "input_text": "Enfin le carr\u00e9 de c\u00f4t\u00e9 x, d'aire x carr\u00e9",
+    "input_data": {
+      "input_text": "Enfin le carr\u00e9 de c\u00f4t\u00e9 x, d'aire x carr\u00e9",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "enfin-le-carre-de-cote-x-d-aire-x-carre-277c6125.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 1400000,
+        "text_offset": 0,
+        "word_length": 7,
+        "text": " Enfin,",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 8400000,
+        "text_offset": 7,
+        "word_length": 3,
+        "text": " le",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 9400000,
+        "text_offset": 10,
+        "word_length": 6,
+        "text": " carr\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 13799999,
+        "text_offset": 16,
+        "word_length": 3,
+        "text": " de",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 15800000,
+        "text_offset": 19,
+        "word_length": 5,
+        "text": " c\u00f4t\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 18600000,
+        "text_offset": 24,
+        "word_length": 3,
+        "text": " X,",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 29600000,
+        "text_offset": 27,
+        "word_length": 2,
+        "text": " d",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 30800000,
+        "text_offset": 29,
+        "word_length": 9,
+        "text": "'ailleurs",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 33800000,
+        "text_offset": 38,
+        "word_length": 2,
+        "text": " X",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 39000000,
+        "text_offset": 40,
+        "word_length": 7,
+        "text": " carr\u00e9.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " Enfin, le carr\u00e9 de c\u00f4t\u00e9 X, d'ailleurs X carr\u00e9.",
+    "final_audio": "enfin-le-carre-de-cote-x-d-aire-x-carre-277c6125.mp3"
+  },
+  {
+    "input_text": "L'in\u00e9galit\u00e9 de Young \u00e9merge visuellement",
+    "input_data": {
+      "input_text": "L'in\u00e9galit\u00e9 de Young \u00e9merge visuellement",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "l-inegalite-de-young-emerge-visuellement-5552acbc.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 2200000,
+        "text_offset": 0,
+        "word_length": 2,
+        "text": " L",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 3800000,
+        "text_offset": 2,
+        "word_length": 10,
+        "text": "'in\u00e9galit\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 12200000,
+        "text_offset": 12,
+        "word_length": 3,
+        "text": " de",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 15200000,
+        "text_offset": 15,
+        "word_length": 5,
+        "text": " Jung",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 19200000,
+        "text_offset": 20,
+        "word_length": 4,
+        "text": " est",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 23600000,
+        "text_offset": 24,
+        "word_length": 7,
+        "text": " merge,",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 30400000,
+        "text_offset": 31,
+        "word_length": 15,
+        "text": " viseuellement.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " L'in\u00e9galit\u00e9 de Jung est merge, viseuellement.",
+    "final_audio": "l-inegalite-de-young-emerge-visuellement-5552acbc.mp3"
+  },
+  {
+    "input_text": "Voici les deux demi-carr\u00e9s x\u00b2/2 et y\u00b2/2",
+    "input_data": {
+      "input_text": "Voici les deux demi-carr\u00e9s x\u00b2/2 et y\u00b2/2",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "voici-les-deux-demi-carres-x2-2-et-y2-2-8418487b.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 1600000,
+        "text_offset": 0,
+        "word_length": 6,
+        "text": " Voici",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 4200000,
+        "text_offset": 6,
+        "word_length": 4,
+        "text": " les",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 6400000,
+        "text_offset": 10,
+        "word_length": 5,
+        "text": " deux",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 8800000,
+        "text_offset": 15,
+        "word_length": 5,
+        "text": " demi",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 11800000,
+        "text_offset": 20,
+        "word_length": 7,
+        "text": "-carr\u00e9,",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 20200000,
+        "text_offset": 27,
+        "word_length": 2,
+        "text": " X",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 22200000,
+        "text_offset": 29,
+        "word_length": 6,
+        "text": " carr\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 25600000,
+        "text_offset": 35,
+        "word_length": 4,
+        "text": " sur",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 27799999,
+        "text_offset": 39,
+        "word_length": 4,
+        "text": " le,",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 33200000,
+        "text_offset": 43,
+        "word_length": 3,
+        "text": " et",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 34200000,
+        "text_offset": 46,
+        "word_length": 2,
+        "text": " Y",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 37400000,
+        "text_offset": 48,
+        "word_length": 6,
+        "text": " carr\u00e9",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 41800000,
+        "text_offset": 54,
+        "word_length": 4,
+        "text": " sur",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 43800000,
+        "text_offset": 58,
+        "word_length": 4,
+        "text": " le.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " Voici les deux demi-carr\u00e9, X carr\u00e9 sur le, et Y carr\u00e9 sur le.",
+    "final_audio": "voici-les-deux-demi-carres-x2-2-et-y2-2-8418487b.mp3"
+  },
+  {
+    "input_text": "En assemblant les pi\u00e8ces, on peut y loger exactement le rectangle d'aire xy",
+    "input_data": {
+      "input_text": "En assemblant les pi\u00e8ces, on peut y loger exactement le rectangle d'aire xy",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "en-assemblant-les-pieces-on-peut-y-loger-1b6c95ff.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 2000000,
+        "text_offset": 0,
+        "word_length": 3,
+        "text": " En",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 3200000,
+        "text_offset": 3,
+        "word_length": 11,
+        "text": " assemblant",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 10000000,
+        "text_offset": 14,
+        "word_length": 4,
+        "text": " les",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 11600000,
+        "text_offset": 18,
+        "word_length": 8,
+        "text": " pi\u00e8ces,",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 22400000,
+        "text_offset": 26,
+        "word_length": 3,
+        "text": " on",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 23400000,
+        "text_offset": 29,
+        "word_length": 5,
+        "text": " peut",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 25600000,
+        "text_offset": 34,
+        "word_length": 2,
+        "text": " y",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 27400000,
+        "text_offset": 36,
+        "word_length": 6,
+        "text": " loger",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 31400000,
+        "text_offset": 42,
+        "word_length": 11,
+        "text": " exactement",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 38400000,
+        "text_offset": 53,
+        "word_length": 3,
+        "text": " le",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 42000000,
+        "text_offset": 56,
+        "word_length": 10,
+        "text": " rectangle",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 46600000,
+        "text_offset": 66,
+        "word_length": 2,
+        "text": " d",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 49800000,
+        "text_offset": 68,
+        "word_length": 4,
+        "text": "'air",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 50800000,
+        "text_offset": 72,
+        "word_length": 11,
+        "text": " hikikerek.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " En assemblant les pi\u00e8ces, on peut y loger exactement le rectangle d'air hikikerek.",
+    "final_audio": "en-assemblant-les-pieces-on-peut-y-loger-1b6c95ff.mp3"
+  },
+  {
+    "input_text": "Et il reste encore de la place !",
+    "input_data": {
+      "input_text": "Et il reste encore de la place !",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "et-il-reste-encore-de-la-place-98a876a0.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 1800000,
+        "text_offset": 0,
+        "word_length": 3,
+        "text": " et",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 3000000,
+        "text_offset": 3,
+        "word_length": 3,
+        "text": " il",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 4600000,
+        "text_offset": 6,
+        "word_length": 6,
+        "text": " reste",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 7600000,
+        "text_offset": 12,
+        "word_length": 3,
+        "text": " du",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 10000000,
+        "text_offset": 15,
+        "word_length": 3,
+        "text": " la",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 11600000,
+        "text_offset": 18,
+        "word_length": 7,
+        "text": " place.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " et il reste du la place.",
+    "final_audio": "et-il-reste-encore-de-la-place-98a876a0.mp3"
   }
 ]
