@@ -1,0 +1,36 @@
+1
+00:00:04,000 --> 00:00:10,273
+Montrons que pour tout couple de réels positifs x et y on a
+
+2
+00:00:10,873 --> 00:00:19,394
+xy inférieur ou égal à x puissance p sur p plus y puissance q sur q
+
+3
+00:00:19,994 --> 00:00:29,324
+avec p et q deux réels strictement plus grand que 1 qui sont conjugués
+
+4
+00:00:29,924 --> 00:00:34,944
+Si x égale zéro ou y égale zéro alors c'est gagné.
+
+5
+00:00:35,544 --> 00:00:42,471
+Si p égale q alors deux sur p égale un et donc p vaut 2
+
+6
+00:00:43,071 --> 00:00:48,231
+c'est-à-dire que l'inégalité à montrer devient x carré sur deux
+
+7
+00:00:48,331 --> 00:00:51,905
+plus y carré sur deux supérieur ou égal à xy
+
+8
+00:00:52,505 --> 00:00:58,439
+soit x carré plus y carré supérieur ou égal à deux xy
+
+9
+00:00:59,039 --> 00:01:06,462
+finalement x moins y le tout au carré positif ce qui est toujours vrai
+
