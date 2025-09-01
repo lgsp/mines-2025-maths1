@@ -1,4 +1,5 @@
 from manim import *
+from manim import ManimColor
 from manim_voiceover import VoiceoverScene
 # from manim_voiceover.services.gtts import GTTSService
 from manim_voiceover.services.recorder import RecorderService
@@ -629,7 +630,7 @@ class YoungTangram(VoiceoverScene):
             half_x.get_vertices()[0],
             half_x.get_vertices()[1],
             center + RIGHT*x/2 + UP*(y/2),
-            color=YELLOW, fill_color=YELLOW, fill_opacity=0.7
+            color=YELLOW, fill_color=YELLOW, fill_opacity=0.75
         )
 
         # Triangle 2 (coin supérieur gauche)
@@ -637,7 +638,7 @@ class YoungTangram(VoiceoverScene):
             half_y.get_vertices()[1],
             half_y.get_vertices()[2],
             center + LEFT*x/2 + UP*(y/2),
-            color=RED, fill_color=RED, fill_opacity=0.7
+            color=RED, fill_color=RED, fill_opacity=0.75
         )
 
         # Trapèze central (forme adaptée)
@@ -653,8 +654,16 @@ class YoungTangram(VoiceoverScene):
         # 4) ÉTIQUETTES
         # ------------------------------------------------------------
         label_xy = MathTex("xy", color=ORANGE).next_to(rectangle, DOWN)
-        label_sum = MathTex("\\frac{x^2}{2} + \\frac{y^2}{2}", font_size=36, color=WHITE).to_edge(UP)
-        inequality = MathTex("xy < \\frac{x^2}{2} + \\frac{y^2}{2}", font_size=44, color=YELLOW).next_to(label_sum, DOWN)
+        label_sum = MathTex(
+            r"\dfrac{x^2}{2} + \dfrac{y^2}{2}",
+            font_size=36,
+            color=WHITE
+        ).to_edge(UP)
+        inequality = MathTex(
+            r"xy < \dfrac{x^2}{2} + \dfrac{y^2}{2}",
+            font_size=44,
+            color=YELLOW
+        ).next_to(label_sum, DOWN)
 
         # ------------------------------------------------------------
         # 5) ANIMATIONS
@@ -834,3 +843,356 @@ class YoungIntegralProof(VoiceoverScene):
         box = SurroundingRectangle(inequality, color=WHITE, buff=0.2)
         self.play(Create(box))
         self.wait(3)        
+
+
+
+
+class YoungGeom2(VoiceoverScene, MovingCameraScene):
+    def construct(self):
+        self.camera.background_color = ManimColor("#606060")
+        # gris foncé par exemple
+        cyan_hex = ManimColor("#4FC3F7") # C-x C-t (transpose-lines)
+        green = ManimColor("#4CAF50")
+        navy = ManimColor("#003366")
+        orange = ManimColor("#FF9800")
+        yellow = ManimColor("#FFD54F")
+        
+        self.set_speech_service(RecorderService())
+
+        # ---------- 1) Carré bleu ABCD + labels x=y et y=x ----------
+        side = 2
+        A = DL * 2.5
+        B = A + RIGHT * side
+        C = A + RIGHT * side + UP * side
+        D = A + UP * side
+        square = Polygon(
+            A, B, C, D,
+            color=navy,
+            fill_color=navy, fill_opacity=0.25
+        )
+
+        label_x_eq_y = MathTex("x=y", color=navy).next_to(square, DOWN)
+        label_y_eq_x = MathTex("y=x", color=navy).next_to(square, LEFT)
+
+        self.play(Create(square), Write(label_x_eq_y), Write(label_y_eq_x))
+        self.wait()
+        # ---------- 2) Diagonale rouge ----------
+        diag = Line(A, C, color=RED, stroke_width=5)
+        self.play(Create(diag))
+        self.wait()
+        # ---------- 3) Disparition des labels ----------
+        # self.play(FadeOut(label_x_eq_y), FadeOut(label_y_eq_x))
+
+        # ---------- 4 & 5) Triangles + étiquettes 1/2 x² et 1/2 y² ----------
+        tri_ACD = Polygon(
+            A, C, D,
+            color=yellow,
+            fill_color=yellow,
+            fill_opacity=0.75
+        )
+        tri_ABC = Polygon(
+            A, B, C,
+            color=cyan_hex,
+            fill_color=cyan_hex,
+            fill_opacity=0.75
+        )
+
+        label_half_y2 = MathTex(
+            r"\dfrac{y^2}{2}=\dfrac{x^2}{2}",
+            color=yellow
+        ).next_to(square, LEFT)
+        label_half_x2 = MathTex(
+            r"\dfrac{x^2}{2}=\dfrac{y^2}{2}",
+            color=cyan_hex
+        ).next_to(square, DOWN)
+
+        self.play(
+            ReplacementTransform(label_y_eq_x, label_half_y2),
+            ReplacementTransform(label_x_eq_y, label_half_x2),
+            FadeIn(tri_ACD), FadeIn(tri_ABC), 
+        )
+        self.wait(2)
+
+        # ---------- 6) Étiquette centrale xy ≤ 1/2(x²+y²) ----------
+        label_ineq = MathTex(
+            r"xy \leqslant \dfrac{x^2}{2}+\dfrac{y^2}{2}",
+            color=WHITE
+        ).scale(0.65).move_to(square.get_center())
+        self.play(Write(label_ineq))
+        self.wait()
+        label_eq = MathTex(
+                           r"xy = \dfrac{x^2}{2}+\dfrac{y^2}{2}",
+                           color=navy
+                           ).next_to(square, UP)
+        self.play(
+            ReplacementTransform(label_ineq, label_eq)
+        )
+        self.wait(2)
+        
+        # ---------- 7) Carré → rectangle horizontal (AEFD) ----------
+        x_new = 2.5
+        E, F = B + RIGHT * x_new, C + RIGHT * x_new
+        rect_AEFD = Polygon(
+            A, E, F, D,
+            color=orange,
+            fill_color=orange,
+            fill_opacity=0.75
+        )
+        
+        trap_AEFC = Polygon(
+            A, E, F, C,
+            color=cyan_hex,
+            fill_color=cyan_hex,
+            fill_opacity=0.75
+        )
+
+        x_sup_y = MathTex(r"x", color=cyan_hex)\
+            .add(MathTex(r">", color=WHITE))\
+            .add(MathTex(r"y", color=yellow))\
+            .arrange(RIGHT)\
+            .next_to(rect_AEFD, DOWN)
+        
+        y_inf_x = MathTex(r"y", color=yellow)\
+            .add(MathTex(r"<", color=WHITE))\
+            .add(MathTex(r"x", color=cyan_hex))\
+            .arrange(RIGHT)\
+            .next_to(rect_AEFD, LEFT)
+        
+        self.play(
+            FadeOut(label_eq),
+            ReplacementTransform(square, rect_AEFD),
+            ReplacementTransform(
+                label_half_x2,
+                x_sup_y
+            ),
+            ReplacementTransform(
+                label_half_y2,
+                y_inf_x
+            ),
+            label_ineq.animate.next_to(rect_AEFD, UP)
+        )
+        self.wait(1.5)
+
+        self.play(
+            rect_AEFD.animate(fill_opacity=0.25),
+            Create(trap_AEFC)
+        )
+        self.wait(1.5)
+        
+        # ---------- 9) Étiquette fractionnée ----------
+        label_split = MathTex(r"x", color=cyan_hex)\
+                      .add(MathTex(r"y", color=yellow))\
+                      .add(MathTex(r"=", color=WHITE))\
+                      .add(MathTex(r"\dfrac{y^2}{2}", color=yellow))\
+                      .add(MathTex(r"+", color=WHITE))\
+                      .add(MathTex(r"\text{Aire(Trapèze)}", color=cyan_hex))\
+                      .arrange(RIGHT)\
+                      .next_to(rect_AEFD, UP)
+        self.play(ReplacementTransform(label_ineq, label_split))
+        self.wait(1.5)
+        
+        # ---------- 10) Rectangle → grand carré AEGH vertical ----------
+        G, H = F + UP * x_new, D + UP * x_new
+        diag2 = Line(A, G, color=RED, stroke_width=5)
+        big_square = Polygon(
+            A, E, G, H,
+            color=navy,
+            fill_color=navy,
+            fill_opacity=0.75
+        )
+        tri_AEG = Polygon(
+            A, E, G,
+            color=navy,
+            fill_color=navy,
+            fill_opacity=0.85
+        )
+
+        
+
+        self.play(
+            Create(diag2),
+            ReplacementTransform(rect_AEFD, big_square),
+            FadeIn(tri_AEG),
+            label_split.animate.next_to(big_square, UP)
+        )
+        self.wait()
+        
+        # ---------- 11) Inégalité finale ----------
+        final_label_split = MathTex(r"x", color=cyan_hex)\
+                      .add(MathTex(r"y", color=yellow))\
+                      .add(MathTex(r"\leqslant", color=WHITE))\
+                      .add(MathTex(r"\dfrac{x^2}{2}", color=navy))\
+                      .add(MathTex(r"+", color=WHITE))\
+                      .add(MathTex(r"\dfrac{y^2}{2}", color=yellow))\
+                      .arrange(RIGHT)\
+                      .next_to(big_square, UP)
+        self.play(ReplacementTransform(label_split, final_label_split))
+        self.wait(2)
+
+        tri_ACD = Polygon(
+            A, C, D,
+            color=yellow,
+            fill_color=yellow,
+            fill_opacity=0.95
+        )
+        
+        trap_AEFC = Polygon(
+            A, E, F, C,
+            color=cyan_hex,
+            fill_color=cyan_hex,
+            fill_opacity=0.95
+        )
+
+        trap_CGHD = Polygon(
+            C, G, H, D,
+            color=green,
+            fill_color=green,
+            fill_opacity=0.95
+        )
+
+        self.play(
+            FadeIn(trap_AEFC), FadeIn(tri_ACD), FadeIn(trap_CGHD),
+            ApplyWave(x_sup_y),
+            ApplyWave(y_inf_x),
+            Circumscribe(final_label_split)
+        )
+        self.wait(2)
+
+
+        # ---------- Rotation 180° du triangle jaune ACD autour de C ----------
+        # 1. Définir le triangle cible (CFG)
+        Dp = C + RIGHT * side
+        Ap = C + RIGHT * side + UP * side
+        tri_CDpAp = Polygon(
+            C, Dp, Ap,
+            color=yellow,
+            fill_color=yellow,
+            fill_opacity=0.9
+        )
+
+        # 2. Rotation 180° autour de C
+        self.play(
+            Rotate(tri_ACD, angle=PI, about_point=C),
+            run_time=1.5
+        )
+        self.wait(2)
+
+        area_label = MathTex(
+            r"\text{Triangle} + \text{Trapèze} \subseteq \text{Demi-carré}",
+            color=WHITE
+        ).to_corner(DL)
+        
+        self.play(
+            Create(tri_CDpAp),
+            Rotate(tri_ACD, angle=PI, about_point=C),
+            Write(area_label),
+            run_time=1.5,
+        )
+        self.wait(2)
+
+        rect_AEFD = Polygon(
+            A, E, F, D,
+            color=orange,
+            fill_color=orange,
+            fill_opacity=0
+        )
+
+        rect_label_split = MathTex(r"x", color=cyan_hex)\
+                      .add(MathTex(r"y", color=yellow))\
+                      .add(MathTex(r"=", color=WHITE))\
+                      .add(MathTex(r"\text{Aire(Triangle)}", color=yellow))\
+                      .add(MathTex(r"+", color=WHITE))\
+                      .add(MathTex(r"\text{Aire(Trapèze)}", color=cyan_hex))\
+                      .arrange(RIGHT)\
+                      .next_to(big_square, UP)
+        self.play(
+            FadeOut(area_label),
+            ReplacementTransform(final_label_split, rect_label_split),
+            Create(rect_AEFD),
+            Circumscribe(rect_label_split, color=orange)
+        )
+        self.wait(2)
+
+        tri_AEG = Polygon(
+            A, E, G,
+            color=navy,
+            fill_color=navy,
+            fill_opacity=0
+        )
+
+        half_square_label_split = MathTex(r"x", color=cyan_hex)\
+                      .add(MathTex(r"y", color=yellow))\
+                      .add(MathTex(r"=", color=WHITE))\
+                      .add(MathTex(r"\dfrac{y^2}{2}", color=yellow))\
+                      .add(MathTex(r"+", color=WHITE))\
+                      .add(MathTex(r"\text{Aire(Trapèze)}", color=cyan_hex))\
+                      .add(MathTex(r"\leqslant", color=WHITE))\
+                      .add(MathTex(r"\text{Aire(Demi-carré)}", color=navy))\
+                      .arrange(RIGHT)\
+                      .next_to(big_square, UP)
+        
+        
+        
+        self.play(
+            Create(tri_AEG),
+            ReplacementTransform(rect_label_split, half_square_label_split),
+            Circumscribe(half_square_label_split, color=navy),
+        )
+        self.wait(2)
+        
+        CA = A - C # vect CA
+        self.play(
+            tri_CDpAp.animate.shift(CA),
+            run_time=1.5
+        )
+        self.wait(2)
+
+        halves_squares_label_split = MathTex(r"x", color=cyan_hex)\
+                      .add(MathTex(r"y", color=yellow))\
+                      .add(MathTex(r"\leqslant", color=WHITE))\
+                      .add(MathTex(r"\text{Aire(Demi-carré)}", color=navy))\
+                      .add(MathTex(r"+", color=WHITE))\
+                      .add(MathTex(r"\text{Aire(Demi-carré)}", color=yellow))\
+                      .arrange(RIGHT)\
+                      .next_to(big_square, UP)
+        
+        AC = C - A # vect AC
+        self.play(
+            tri_CDpAp.animate.shift(AC),
+            ReplacementTransform(
+                half_square_label_split,
+                halves_squares_label_split
+            ),
+            Circumscribe(halves_squares_label_split, color=orange),
+            run_time=1.5,
+        )
+        self.wait(2)
+
+        final_label_split = MathTex(r"x", color=cyan_hex)\
+                      .add(MathTex(r"y", color=yellow))\
+                      .add(MathTex(r"\leqslant", color=WHITE))\
+                      .add(MathTex(r"\dfrac{x^2}{2}", color=navy))\
+                      .add(MathTex(r"+", color=WHITE))\
+                      .add(MathTex(r"\dfrac{y^2}{2}", color=yellow))\
+                      .arrange(RIGHT)\
+                      .next_to(big_square, UP)
+        
+        self.play(
+            ReplacementTransform(
+                halves_squares_label_split,
+                final_label_split),
+            Circumscribe(final_label_split, color=green),
+        )
+        self.wait(2)
+
+        self.camera.frame.animate.scale(0.6).move_to(final_label_split)
+        self.wait(1.5)
+
+        summary = MathTex(
+            r"\boxed{xy \leq \frac{x^2}{2} + \frac{y^2}{2}}",
+            font_size=48,
+            color=WHITE
+        ).to_edge(LEFT)
+        self.play(Write(summary), Circumscribe(summary))
+        self.wait()
+        
